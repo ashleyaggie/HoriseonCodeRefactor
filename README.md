@@ -8,7 +8,7 @@ Search engine optimization covers a broad spectrum of topics, but this assignmen
 
 Something I would have done in a client-based scenario is suggest changing some items. I would have mentioned to them that they should look into changing the colors on the "Horiseon" title of their website. The "SEO" is very low contrast and it's extremely likely users with color blindness would not see the difference at all. In addition, there is an issue with the same title where a screen reader is unable to read it all as one word. It would solve a lot of that issue if they changed it into an image instead of using code to put the text there. However, I did notice that the screen reader still reads it all as one word when doing a whole-page overview. It's only when the mouse hovers over it that the screen reader reads it in parts instead of a whole.
 
-(insert deployed link here)
+[Deployed Website](https://ashleyaggie.github.io/HoriseonCodeRefactor)
 
 ## Changes Made
 
