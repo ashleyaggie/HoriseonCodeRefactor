@@ -30,13 +30,17 @@ WHEN I view the image elements
 
 THEN I find accessible alt attributes
 
-    * Added alt attributes to all images in Markup. Those that were in css or did not use a img tag were labeled with aria-label.
+    * Added alt attributes to all images in Markup.
+    
+    * Those that were in css or did not use a img tag were labeled with aria-label.
 
 WHEN I view the heading attributes
 
 THEN they fall in sequential order
 
-    * Markup more or less already was in order. Changed CSS to follow the same order as the Markup, and grouped like elements together.
+    * Markup more or less already was in order.
+    
+    * Changed CSS to follow the same order as the Markup, and grouped like elements together.
 
 WHEN I view the title element
 
