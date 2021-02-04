@@ -13,25 +13,41 @@ Something I would have done in a client-based scenario is suggest changing some 
 ## Changes Made
 
 GIVEN a webpage meets accessibility standards
+
 WHEN I view the source code
+
 THEN I find semantic HTML elements
-    - Changed all divs to semantic elements, ex. main, section, aside, etc.
+
+    * Changed all divs to semantic elements, ex. main, section, aside, etc.
+
 WHEN I view the structure of the HTML elements
+
 THEN I find that the elements follow a logical structure independent of styling and positioning
-    - Includes an HTML declaration, head, body, and footer.
+
+    * Includes an HTML declaration, head, body, and footer.
+
 WHEN I view the image elements
+
 THEN I find accessible alt attributes
-    - Added alt attributes to all images in Markup. Those that were in css or did not use a img tag were labeled with aria-label.
+
+    * Added alt attributes to all images in Markup. Those that were in css or did not use a img tag were labeled with aria-label.
+
 WHEN I view the heading attributes
+
 THEN they fall in sequential order
-    - Markup more or less already was in order. Changed CSS to follow the same order as the Markup, and grouped like elements together.
+
+    * Markup more or less already was in order. Changed CSS to follow the same order as the Markup, and grouped like elements together.
+
 WHEN I view the title element
+
 THEN I find a concise, descriptive title
-    - Added the company's title into the title element.
+
+    * Added the company's title into the title element.
 
 ## Credits
 
 Horiseon is a fake SEO services company used in the teaching of HTML5.
+
 Assignment is part of the SMU Coding Boot Camp
 
 ## License
