@@ -10,6 +10,12 @@ Something I would have done in a client-based scenario is suggest changing some 
 
 [Deployed Website](https://ashleyaggie.github.io/HoriseonCodeRefactor)
 
+![Top picture of website](/assets/images/WebsiteBottom.png)
+
+![Middle picture of website](/assets/images/WebsiteMid.png)
+
+![Bottom picture of website](/assets/images/WebsiteBottom.png)
+
 ## Changes Made
 
 GIVEN a webpage meets accessibility standards
